@@ -29,9 +29,8 @@ A high-performance Android application designed to discover and analyze Cloudfla
 
 ---
 
-## 📸 Screenshots / اسکرین‌شات‌ها
-*(Tip: Drag and drop your app screenshots here to showcase the UI)*
-*(نکته: عکس‌های محیط برنامه را اینجا آپلود کنید تا ظاهر برنامه دیده شود)*
+<img width="490" height="1024" alt="image" src="https://github.com/user-attachments/assets/ca94ab0a-7049-4d40-bc90-43836da62d6f" />
+
 
 ---
 
@@ -46,6 +45,32 @@ A high-performance Android application designed to discover and analyze Cloudfla
 
 ---
 
+🛠 Setup Guide (For Beginners)
+
+To start scanning, you must enter your personal server details in the INPUT tab:
+
+SNI (Server Name Indication): Enter your subdomain address or Worker URL here.
+
+Path: Enter the Path information exactly as it appears in your v2ray configuration.
+
+UUID: Paste your VLESS config's unique identifier. This code is required for connection authentication.
+
+Note: After entering the details, make sure to click the SAVE SETTINGS button to store them for future scans.
+
+
+🇮🇷 راهنمای تنظیمات (برای کاربران مبتدی)
+برای شروع اسکن، باید اطلاعات سرور شخصی خود را در تب INPUT وارد کنید:
+
+SNI (Server Name Indication): 
+در این قسمت آدرس ساب دامین یا ورکر را وارد کنید
+Path: 
+در این قسمت اطلاعاتی که در کانفیگ v2ray را زدید وارد کنید
+UUID:
+ کد شناسایی اختصاصی کانفیگ VLESS خود را در این کادر کپی کنید. این کد برای احراز هویت اتصال شماست.
+
+نکته: پس از وارد کردن اطلاعات، حتماً دکمه SAVE SETTINGS را بزنید تا تنظیمات برای اسکن‌های بعدی ذخیره .
+
+
 ## 🛠 Tech Stack
 - **Language:** Kotlin
 - **UI:** Jetpack Compose
@@ -54,3 +79,4 @@ A high-performance Android application designed to discover and analyze Cloudfla
 
 ---
 *Developed with ❤️ for a free and stable internet.*
+حقوق معنوی این نرم افزار برای من محفوظ می باشد.
