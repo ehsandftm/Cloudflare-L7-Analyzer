@@ -1,3 +1,9 @@
+![GitHub License](https://img.shields.io/github/license/ehsandftm/Cloudflare-L7-Analyzer?style=flat-square&color=blue)
+![GitHub Release](https://img.shields.io/github/v/release/ehsandftm/Cloudflare-L7-Analyzer?style=flat-square&color=green)
+![Android Badge](https://img.shields.io/badge/Platform-Android-brightgreen?style=flat-square&logo=android)
+![Kotlin Badge](https://img.shields.io/badge/Language-Kotlin-purple?style=flat-square&logo=kotlin)
+
+
 # 🚀 Advanced L7 Cloudflare Scanner & Analyzer (Android)
 ### آنالیزور و اسکنر پیشرفته لایه ۷ کلودفلر (نسخه اندروید)
 
