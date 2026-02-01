@@ -29,7 +29,12 @@ A high-performance Android application designed to discover and analyze Cloudfla
 
 ---
 
-<img width="490" height="1024" alt="image" src="https://github.com/user-attachments/assets/ca94ab0a-7049-4d40-bc90-43836da62d6f" />
+<img width="377" height="813" alt="image" src="https://github.com/user-attachments/assets/7b562ded-2442-401f-a5e4-34f09fcf11c0" />
+<img width="403" height="825" alt="image" src="https://github.com/user-attachments/assets/d287316b-413a-43ad-ac5b-e4a73aaec89d" />
+<img width="387" height="832" alt="image" src="https://github.com/user-attachments/assets/f9e25fd2-6e2d-4506-8af1-43a696fb7a68" />
+<img width="387" height="822" alt="image" src="https://github.com/user-attachments/assets/9c91fecb-cf51-4389-b576-2ec70f323616" />
+
+
 
 
 ---
